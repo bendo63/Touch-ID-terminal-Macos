@@ -15,4 +15,8 @@ auth       sufficient     pam_tid.so
 ![Capture d’écran 2022-04-03 à 20 16 21](https://user-images.githubusercontent.com/42283374/161442236-9158751d-b12c-4f7b-86cd-7fca5bc7ff81.png)
 
 #fin!
+
 [Capture d’écran 2022-04-03 à 20 16 12](https://user-images.githubusercontent.com/42283374/161442228-4a8bdd6e-53ce-45b0-9266-4945164b25bb.png)
+
+
+
